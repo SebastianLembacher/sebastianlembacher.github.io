@@ -2,7 +2,7 @@
 lang: en
 title: Action Video Games
 tagline: Impact on Cognition, Attention and Perception
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 email: sebastian.lembacher@edu.uni-graz.at
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
@@ -82,4 +82,3 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-remote_theme: chrisrhymes/bulma-clean-theme
