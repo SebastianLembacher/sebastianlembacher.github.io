@@ -1,12 +1,13 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Action Video Games
+tagline: Impact on Cognition, Attention and Perception
+theme: bulma-clean-theme
+email: sebastian.lembacher@edu.uni-graz.at
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+baseurl: ""
+url: "https://sebastianlembacher.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
