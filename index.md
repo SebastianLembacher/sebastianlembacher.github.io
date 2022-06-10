@@ -6,9 +6,9 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+## Abstract
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Abstract Text
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
