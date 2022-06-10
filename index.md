@@ -6,49 +6,58 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-## Abstract
+## Primary goals
 
-Abstract Text
+Text
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+## Features of action video games
 
-## Ruby Gem
+Text
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+## Distribution of games used as intervention
 
-## GitHub Pages
+Text
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
+## Example pictures of the most prevalent ones
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+Pictures
 
-## Documentation
+## Literature Screening
 
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
+Text
 
-## Page Layouts
+## Inclusion/exclusion criteria
 
-This demo site showcases the available page layout options. 
+Text
 
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
+## Cognitive domains
 
-## Supported By JetBrains
+Text
 
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
+## Meta-Analysis 1 - cross-sectional
 
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+Text
+
+## Meta-Analysis 2 - interventional
+
+Text
+
+## MAGIC
+
+Text
+
+## Possible Stakeholders
+
+Text
+
+## Additional Remarks
+
+Text
+
+## Conclusion
+
+Text
+
+## Limitations/Biases
+
+Text
