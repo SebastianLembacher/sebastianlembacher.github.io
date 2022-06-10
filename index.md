@@ -2,8 +2,7 @@
 title: Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills
 subtitle: BEDIOU, Benoît, et al. (2018)
 layout: page
-callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 ## Primary goals
