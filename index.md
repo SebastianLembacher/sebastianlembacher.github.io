@@ -10,58 +10,34 @@ show_sidebar: false
  <img src="Keyboard.png" alt="MDN">
 </picture>
 
-## Primary goals
+## Overview of the meta-analysis
 
 Text
 
-## Features of action video games
+## Introduction
 
 Text
 
-## Distribution of games used as intervention
+## Goals of this meta-analysis
 
 Text
 
-## Example pictures of the most prevalent ones
+## Results of this meta-analysis
 
 Pictures
 
-## Literature Screening
+## MAGIC Criteria
 
 Text
 
-## Inclusion/exclusion criteria
+## Implications and Conclusions
 
 Text
 
-## Cognitive domains
+## Study 1
 
 Text
 
-## Meta-Analysis 1 - cross-sectional
-
-Text
-
-## Meta-Analysis 2 - interventional
-
-Text
-
-## MAGIC
-
-Text
-
-## Possible Stakeholders
-
-Text
-
-## Additional Remarks
-
-Text
-
-## Conclusion
-
-Text
-
-## Limitations/Biases
+## Study 2
 
 Text
