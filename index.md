@@ -5,6 +5,11 @@ layout: page
 show_sidebar: false
 ---
 
+<picture>
+ <source srcset="Keyboard.png" media="(min-width: 600px)">
+ <img src="Keyboard.png" alt="MDN">
+</picture>
+
 ## Primary goals
 
 Text
