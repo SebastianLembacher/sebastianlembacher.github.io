@@ -28,16 +28,18 @@ Text
 
 ## MAGIC Criteria
 
-*Magnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)
-*Articulation- quite specific in their criteria and hypothesis; very excessively explained, transparent in their choices
-*Generality - for younger adults quite general as they used commercially available games; no generality for children/adolescents or older adults
-*Interestingness - games are a common part of many people's life -> findings like this build a foundation upon which specific interventions can be build
-*Credibility - overall fairly credible; looked at many potential moderators and biases and assessed them
+<ul>
+<li>Magnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)</li>
+<li>Articulation- quite specific in their criteria and hypothesis; very excessively explained, transparent in their choices</li>
+<li>Generality - for younger adults quite general as they used commercially available games; no generality for children/adolescents or older adults</li>
+<li>Interestingness - games are a common part of many people's life -> findings like this build a foundation upon which specific interventions can be build</li>
+<li>Credibility - overall fairly credible; looked at many potential moderators and biases and assessed them</li>
+</ul>
 
 
 ## Implications and Conclusions
 
-Text
+The present meta-analysis was able to demonstrate that individuals, who choose to play action video games, regularly exhibit better cognitive skills than those who play little to no video games. The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
 
 ## Study 1
 
