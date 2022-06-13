@@ -10,6 +10,7 @@ show_sidebar: false
  <img src="Keyboard.png" alt="MDN">
 </picture>
 
+<hr>
 
 Video games are an important part of many people’s lives. Mainly in the past, but also in the present, there was and is a lot of public discussion about the (negative) effect of video games, especially “shooter-games”. As these games require a broad repertoire of cognitive skills, like spatial abilities, problem solving or attentional processes. Thus it would make sense if these games play a role in developing higher cognitive skills in many domains. The present meta-analysis aims to measure the impact of action video games on cognition and additionally try to identify potential confounding factors and moderators.
 
