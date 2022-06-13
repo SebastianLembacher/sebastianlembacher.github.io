@@ -10,6 +10,7 @@ show_sidebar: false
  <img src="Keyboard.png" alt="MDN">
 </picture>
 
+
 Video games are an important part of many people’s lives. Mainly in the past, but also in the present, there was and is a lot of public discussion about the (negative) effect of video games, especially “shooter-games”. As these games require a broad repertoire of cognitive skills, like spatial abilities, problem solving or attentional processes. Thus it would make sense if these games play a role in developing higher cognitive skills in many domains. The present meta-analysis aims to measure the impact of action video games on cognition and additionally try to identify potential confounding factors and moderators.
 
 # Overview of the meta-analysis
@@ -53,7 +54,7 @@ There was no effect of training duration to be found in the multiple moderator a
 
 To control for publication bias, the authors of the present meta-analysis conducted contour-ehanced funnel plots (Peters et al., 2008) and Egger's test for asymmetry, which confirmed significant asymmetry (ß = 4.15, p < .001). As a correction for the found asymmetry, the authors conducted a trim-and-fill analysis. Therefore they imputed 7 additional studies with negative effect sizes of low precision. Eventually, the main effect of action video game intervfention still remained sizable and significant (g = 0.40, p < .001). The effect is 32% smaller compared with the Random/Mixed effect (g = 0.58, p < .001). These analyses confirm the overall result of a publication bias threat of about 30%. 
 
-# MAGIC Criteria
+### MAGIC Criteria
 
 <ul>
 <li><strong>M</strong>agnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)</li>
@@ -64,7 +65,7 @@ To control for publication bias, the authors of the present meta-analysis conduc
 </ul>
 
 
-# Implications and Conclusions
+### Implications and Conclusions
 
 The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games. The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
 
