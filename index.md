@@ -58,9 +58,9 @@ To control for publication bias, the authors of the present meta-analysis conduc
 <ul>
 <li><strong>M</strong>agnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)</li>
 <li><strong>A</strong>rticulation- quite specific in their criteria and hypothesis; very excessively explained, transparent in their choices</li>
-<li>**G**enerality - for younger adults quite general as they used commercially available games; no generality for children/adolescents or older adults</li>
-<li>**I**nterestingness - games are a common part of many people's life -> findings like this build a foundation upon which specific interventions can be build</li>
-<li>**C**redibility - overall fairly credible; looked at many potential moderators and biases and assessed them</li>
+<li><strong>G</strong>enerality - for younger adults quite general as they used commercially available games; no generality for children/adolescents or older adults</li>
+<li><strong>I</strong>nterestingness - games are a common part of many people's life -> findings like this build a foundation upon which specific interventions can be build</li>
+<li><strong>C</strong>redibility - overall fairly credible; looked at many potential moderators and biases and assessed them</li>
 </ul>
 
 
