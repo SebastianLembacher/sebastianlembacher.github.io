@@ -10,25 +10,38 @@ show_sidebar: false
  <img src="Keyboard.png" alt="MDN">
 </picture>
 
+Video games are an important part of many people’s lives. Mainly in the past, but also in the present, there was and is a lot of public discussion about the (negative) effect of video games, especially “shooter-games”. As these games require a broad repertoire of cognitive skills, like spatial abilities, problem solving or attentional processes. Thus it would make sense if these games play a role in developing higher cognitive skills in many domains. The present meta-analysis aims to measure the impact of action video games on cognition and additionally try to identify potential confounding factors and moderators.
+
 # Overview of the meta-analysis
 
-Text
+### Focus of the study
+Effect of habitual action video gaming and training with action video games on cognition
 
-# Introduction
+### Target group
+(Neuro)psychologists & psychiatrists, game-designers and the public
 
-Text
+### Average effect sizes
+Habitual playing of action video games has a medium effect size on cognition (g = 0.55); intervention with an action video game has a medium effect size on cognition as well (g = 0.40) but only in younger adults
 
-# Goals of this meta-analysis
+### Additional findings
+Accuracy and Speed are equally enhanced (no speed-accuracy trade-off); longer training duration would be helpful in the future; highest impact on the domains of spatial cognition, top-down attention and perception
 
-Text
+# Short review
 
-# Results of this meta-analysis
+### Introduction
+More than 1.2 billion people worldwide are video gamers, with action games as one of the most popular genres. It is important to note that video game genres are very heterogeneous and thus should be researched separately and not as one collective mass. To examine the causal link between playing action video games and cognition one needs to not only compare habitual action video game players (AVGP) to non-players (NVGP) but look at intervention studies with NVGP’s as well.
+The authors propose a narrower definition of action video games than previous research and define the following features: a) fast pace, b) high degree of perceptual and motor load, also working memory and goal setting, c) a constant switch between a distributed and highly focused state of attention and d) a high degree of clutter and distraction. In summary these features are commonly found in first- and third-person shooter game from the year 2000 on.
 
-## Cross-sectional Studies
+### What are the goals of the study?
+The present meta-analysis contains two separate section and analysis: one for the effect of cross-sectional studies and one for the effects of intervention studies on different cognitive domains. Importantly, AVGP’s are defined as people who play action video games at least 3 hours weekly for the last 6 months and NVGP play less than 1 hour of action games and less than 3 hours weekly in general. For intervention studies there had to be an active control group which played a non-action video game like Tetris or The Sims 2. The most prevalent games for the experimental groups were Unreal Tournament 2004, Medal of Honor and Call of Duty 2. 
+In addition, the authors controlled for several different moderators, namely the cognitive domain, age group, DV-type (accuracy and speed), effect type (main vs. difference effect), Lab of origin (Bavelier lab vs. other labs) and type of recruitment (overt vs. covert).
 
-Text
+### Results of cross-sectional studies
+Based on 89 studies and 194 effect sizes, the overall mean weighted effect on cognition was of medium size (g = 0.55, p < .001). Highest effect sizes were observed for the cognitive domains of perception (g = 0.78), spatial cognition (g = 0,75) and top-down attention (g = 0.63), followed by multi-tasking (g = 0.55). Smaller but still significant effect were found for inhibition (g = 0.31) and verbal cognition (g = 0.30). There was no significant impact on the domain of problem-solving. 
+Moderator-level analysis showed that there was no difference in the type of cognitive domain, age group, DV-type, effect-type, or recruitment type. Lab of origin was a significant moderator (F = 4.66, p = 0.40) with higher effect sizes observed for the Bavelier lab compared to other labs. 
+Importantly, these results are robust for young adults but only a trend could be shown for children (g = 0.32, p = .21).
 
-## Interventional Studies
+### Results of interventional studies
 
 The analysis of interventional studies shows a positive effect of action video game play on cognition in young adults (g = 0.40, p < .001) and a negative trend in older adults (g = -.036, p = .16). Therefore, all of the following results focus on young adult intervention studies.
 
@@ -43,11 +56,11 @@ To control for publication bias, the authors of the present meta-analysis conduc
 # MAGIC Criteria
 
 <ul>
-<li>Magnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)</li>
-<li>Articulation- quite specific in their criteria and hypothesis; very excessively explained, transparent in their choices</li>
-<li>Generality - for younger adults quite general as they used commercially available games; no generality for children/adolescents or older adults</li>
-<li>Interestingness - games are a common part of many people's life -> findings like this build a foundation upon which specific interventions can be build</li>
-<li>Credibility - overall fairly credible; looked at many potential moderators and biases and assessed them</li>
+<li>**M**agnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)</li>
+<li>**A**rticulation- quite specific in their criteria and hypothesis; very excessively explained, transparent in their choices</li>
+<li>**G**enerality - for younger adults quite general as they used commercially available games; no generality for children/adolescents or older adults</li>
+<li>**I**nterestingness - games are a common part of many people's life -> findings like this build a foundation upon which specific interventions can be build</li>
+<li>**C**redibility - overall fairly credible; looked at many potential moderators and biases and assessed them</li>
 </ul>
 
 
@@ -63,11 +76,21 @@ The authors of the present meta-analysis describe a few reasons on why the effec
 
 Some limitations of the present meta-analysis are that many of the moderator effects have rather small degrees of freedom aswell as small sample sizes in most studies. The authors could also show a possibility of publication bias concerns by conducting different analyses.
 
-# Study 1
+# Study example – Jan
+## Technology consumption and cognitive control: Contrasting action video game experience with media multitasking (Cardoso-Leite et al., 2016)
 
-Text
+In this study the authors looked at the interaction of playing action video games and the habit of media multitasking. Media-multitasking describes the concurrent use of two medias like listening to music while reading or texting/browsing the internet while watching a movie.
 
-# Study 2
+Participants where divided into light, intermediate or heavy media multitaskers based on their self-perceived use. 
+Four cognitive tasks (AX-continous performance task, N-back task, task-switching and filter task) were used in this study to assess differences between AVGP and NVGP depending on their media multitasking group.
+
+Results show that light-media multitaskers perform better in the AX-continous task (with and without distractors) and that AVGP’s performed better only in the intermediate-multitasking group. For the N-back and task-switching tasks AVGP’s again performed better than NVGP’s especially in the intermediate-multitasking group. Lastly, in the filter task heavy-multimedia multitaskers performed worse than both intermediate and light multitaskers and AVGP’s better than NVGP’s in the intermediate-mutitasking group.
+
+Overall, these results show that there is a rather complex relationship between technology use and cognitive control. Habitual action video gamers performed better than non-players in intermediate-multimedia users only and heavy-multimedia multitaskers were for the better part not statistically worse than the other groups. As a limiting factor, sample size was quite small, considering the 2x3 design. Thus, further studies are needed to explore how playing action video games and media multitasking are connected.
+
+
+# Study example – Sebastian
+## Text
 
 Text
 
