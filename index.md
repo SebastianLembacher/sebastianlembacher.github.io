@@ -10,25 +10,25 @@ show_sidebar: false
  <img src="Keyboard.png" alt="MDN">
 </picture>
 
-## Overview of the meta-analysis
+# Overview of the meta-analysis
 
 Text
 
-## Introduction
+# Introduction
 
 Text
 
-## Goals of this meta-analysis
+# Goals of this meta-analysis
 
 Text
 
-## Results of this meta-analysis
+# Results of this meta-analysis
 
-# Cross-sectional Studies
+## Cross-sectional Studies
 
 Text
 
-# Interventional Studies
+## Interventional Studies
 
 The analysis of interventional studies shows a positive effect of action video game play on cognition in young adults (g = 0.40, p < .001) and a negative trend in older adults (g = -.036, p = .16). Therefore, all of the following results focus on young adult intervention studies.
 
@@ -40,7 +40,7 @@ There was no effect of training duration to be found in the multiple moderator a
 
 To control for publication bias, the authors of the present meta-analysis conducted contour-ehanced funnel plots (Peters et al., 2008) and Egger's test for asymmetry, which confirmed significant asymmetry (ß = 4.15, p < .001). As a correction for the found asymmetry, the authors conducted a trim-and-fill analysis. Therefore they imputed 7 additional studies with negative effect sizes of low precision. Eventually, the main effect of action video game intervfention still remained sizable and significant (g = 0.40, p < .001). The effect is 32% smaller compared with the Random/Mixed effect (g = 0.58, p < .001). These analyses confirm the overall result of a publication bias threat of about 30%. 
 
-## MAGIC Criteria
+# MAGIC Criteria
 
 <ul>
 <li>Magnitude - overall effect on cognition: cross-sectional studies g = 0.55; intervention studies g = 0.40 (only for young adults)</li>
@@ -51,7 +51,7 @@ To control for publication bias, the authors of the present meta-analysis conduc
 </ul>
 
 
-## Implications and Conclusions
+# Implications and Conclusions
 
 The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games. The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
 
@@ -63,15 +63,15 @@ The authors of the present meta-analysis describe a few reasons on why the effec
 
 Some limitations of the present meta-analysis are that many of the moderator effects have rather small degrees of freedom aswell as small sample sizes in most studies. The authors could also show a possibility of publication bias concerns by conducting different analyses.
 
-## Study 1
+# Study 1
 
 Text
 
-## Study 2
+# Study 2
 
 Text
 
-## Sources
+# Sources
 
 Bediou, B., Adams, D. M., Mayer, R. E., Tipton, E., Green, C. S., & Bavelier, D. (2018). Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. Psychological bulletin, 144(1), 77.
 
