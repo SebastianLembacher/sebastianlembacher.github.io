@@ -53,7 +53,7 @@ To control for publication bias, the authors of the present meta-analysis conduc
 
 # Implications and Conclusions
 
-<p>The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games. <span id="dots">...</span><span id="more"> The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
+<p>The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games.<span id="dots">...</span><span id="more"> The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
 
 The impact of action video game play on cognition appeared equally strong for speed and accuracy, which implies that speed-accuracy trade-offs are not a likely result. Another concern of the present meta-analysis was the Expectation/Placebo Hypothesis. However, the presence of medium-to-large effect sizes for both overt and covert recruitment studies aswell as small-to-medium effect sizes for both main effects and difference effects speaks against this hypothesis.
 
