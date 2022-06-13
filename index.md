@@ -14,7 +14,7 @@ show_sidebar: false
 
 Video games are an important part of many people’s lives. Mainly in the past, but also in the present, there was and is a lot of public discussion about the (negative) effect of video games, especially “shooter-games”. As these games require a broad repertoire of cognitive skills, like spatial abilities, problem solving or attentional processes. Thus it would make sense if these games play a role in developing higher cognitive skills in many domains. The present meta-analysis aims to measure the impact of action video games on cognition and additionally try to identify potential confounding factors and moderators.
 
-<hr size="10" width="10%" color="black">  
+<hr>
 
 # Overview of the meta-analysis
 
@@ -29,6 +29,8 @@ Habitual playing of action video games has a medium effect size on cognition (g 
 
 ### Additional findings
 Accuracy and Speed are equally enhanced (no speed-accuracy trade-off); longer training duration would be helpful in the future; highest impact on the domains of spatial cognition, top-down attention and perception
+
+<hr>
 
 # Short review
 
@@ -67,7 +69,6 @@ To control for publication bias, the authors of the present meta-analysis conduc
 <li><strong>C</strong>redibility - overall fairly credible; looked at many potential moderators and biases and assessed them</li>
 </ul>
 
-
 ### Implications and Conclusions
 
 The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games. The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
@@ -79,6 +80,8 @@ Higher effect sizes have been found in studies carried out by the Bavelier labor
 The authors of the present meta-analysis describe a few reasons on why the effects are different depending on the participants age. Firstly they mentioned, that a game's difficulty could have an impact. Action video games are mostly specifically produced for young adults, which makes it difficult for older adults to perform in the same way. Another issue is the lower compliance in older adults who are asked to train on action games (Boot et al., 2013). It is also important to note that there was a lack of studies with child participants. Nevertheless, there was a positve non-significant trend to be found in children, which acts as a reson to carry out more studies with child participants using nonviolent action video games. 
 
 Some limitations of the present meta-analysis are that many of the moderator effects have rather small degrees of freedom aswell as small sample sizes in most studies. The authors could also show a possibility of publication bias concerns by conducting different analyses.
+
+<hr>
 
 # Study example – Jan
 ## Technology consumption and cognitive control: Contrasting action video game experience with media multitasking (Cardoso-Leite et al., 2016)
@@ -92,11 +95,14 @@ Results show that light-media multitaskers perform better in the AX-continous ta
 
 Overall, these results show that there is a rather complex relationship between technology use and cognitive control. Habitual action video gamers performed better than non-players in intermediate-multimedia users only and heavy-multimedia multitaskers were for the better part not statistically worse than the other groups. As a limiting factor, sample size was quite small, considering the 2x3 design. Thus, further studies are needed to explore how playing action video games and media multitasking are connected.
 
+<hr>
 
 # Study example – Sebastian
 ## Text
 
 Text
+
+<hr>
 
 # Sources
 
