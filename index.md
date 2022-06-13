@@ -53,7 +53,7 @@ To control for publication bias, the authors of the present meta-analysis conduc
 
 # Implications and Conclusions
 
-The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games. The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
+<p>The present meta-analysis was able to demonstrate that individuals, who choose to play action video games regularly, exhibit better cognitive skills than those who play little to no video games. <span id="dots">...</span><span id="more"> The most affected domains are perception, spatial cognition and top-down attention. The analysis of intervention studies suggests a causal role of action gaming in generating these effects.
 
 The impact of action video game play on cognition appeared equally strong for speed and accuracy, which implies that speed-accuracy trade-offs are not a likely result. Another concern of the present meta-analysis was the Expectation/Placebo Hypothesis. However, the presence of medium-to-large effect sizes for both overt and covert recruitment studies aswell as small-to-medium effect sizes for both main effects and difference effects speaks against this hypothesis.
 
@@ -61,7 +61,9 @@ Higher effect sizes have been found in studies carried out by the Bavelier labor
 
 The authors of the present meta-analysis describe a few reasons on why the effects are different depending on the participants age. Firstly they mentioned, that a game's difficulty could have an impact. Action video games are mostly specifically produced for young adults, which makes it difficult for older adults to perform in the same way. Another issue is the lower compliance in older adults who are asked to train on action games (Boot et al., 2013). It is also important to note that there was a lack of studies with child participants. Nevertheless, there was a positve non-significant trend to be found in children, which acts as a reson to carry out more studies with child participants using nonviolent action video games. 
 
-Some limitations of the present meta-analysis are that many of the moderator effects have rather small degrees of freedom aswell as small sample sizes in most studies. The authors could also show a possibility of publication bias concerns by conducting different analyses.
+Some limitations of the present meta-analysis are that many of the moderator effects have rather small degrees of freedom aswell as small sample sizes in most studies. The authors could also show a possibility of publication bias concerns by conducting different analyses.</span></p>
+
+<button onclick="myFunction()" id="myBtn">Read more</button>
 
 # Study 1
 
