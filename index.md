@@ -98,9 +98,15 @@ Overall, these results show that there is a rather complex relationship between 
 <hr>
 
 # Study example – Sebastian
-## Text
+## Using video game play to improve education-majors‘ mathematical performance: An experimental study (Novak & Tassell, 2015)
 
-Text
+The authors of this study investigated group differences between students with and without considerable action video game experience on cognitive and mathematical skills, mathematics anxiety and confidence. They were also examining the effects of action video game play on education-major students' mathematics performance as mediated by the effect of selective attention on working memory.
+
+For the first experiment, the students were divided into AVGers and non-AVGers and had to carry out several performance tests. The results show significant differences between AVGers and non-AVGers in their Working Memory performance, Geometry performance and in the Mental Rotation performance with AVGers having higher scores respectively. 
+
+For the second experiment, they included only non-AVGers and divided them into two intervention groups - an AVG intervention group that got to play Unreal Tournament 2004 and a non-AVG group which got to play Angry Birds. Both groups got instructed to play their assigned game for 10 hours within 3 weeks. They also got instructed to carry out the same assessment series as in Experiment 1 before and after the video game intervention.
+
+The results show significant improvements in Working Memory performance, Mental Rotation performance and Geometry performance in both groups. There were no significant differences to be found between the groups. These are promising findings as Angry Birds is a casual game that doesn't require special skills or big amounts of time to master these skills. In addition to that, action video games primarily appeal to males only, while non-action casual video games appeal to a considerably broader audience, including both males and females.
 
 <hr>
 
@@ -109,6 +115,8 @@ Text
 Bediou, B., Adams, D. M., Mayer, R. E., Tipton, E., Green, C. S., & Bavelier, D. (2018). Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. Psychological bulletin, 144(1), 77.
 
 Boot, W. R., Champion, M., Blakely, D. P., Wright, T., Souders, D., & Charness, N. (2013). Video games as a means to reduce age-related cognitive decline: attitudes, compliance, and effectiveness. Frontiers in psychology, 4, 31.
+
+Cardoso-Leite, P., Kludt, R., Vignola, G., Ma, W. J., Green, C. S., & Bavelier, D. (2016). Technology consumption and cognitive control: Contrasting action video game experience with media multitasking. Attention, Perception, & Psychophysics, 78(1), 218-241.
 
 Novak, E., & Tassell, J. (2015). Using video game play to improve education-majors’ mathematical performance: An experimental study. Computers in Human Behavior, 53, 124-130.
 
