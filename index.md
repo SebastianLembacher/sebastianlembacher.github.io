@@ -112,14 +112,14 @@ The results show significant improvements in Working Memory performance, Mental 
 
 # Sources
 
-Bediou, B., Adams, D. M., Mayer, R. E., Tipton, E., Green, C. S., & Bavelier, D. (2018). Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. Psychological bulletin, 144(1), 77.
+Bediou, B., Adams, D. M., Mayer, R. E., Tipton, E., Green, C. S., & Bavelier, D. (2018). Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. Psychological bulletin, 144(1), 77. <a href="https://psycnet.apa.org/doi/10.1037/bul0000130">https://psycnet.apa.org/doi/10.1037/bul0000130</a>
 
-Boot, W. R., Champion, M., Blakely, D. P., Wright, T., Souders, D., & Charness, N. (2013). Video games as a means to reduce age-related cognitive decline: attitudes, compliance, and effectiveness. Frontiers in psychology, 4, 31.
+Boot, W. R., Champion, M., Blakely, D. P., Wright, T., Souders, D., & Charness, N. (2013). Video games as a means to reduce age-related cognitive decline: attitudes, compliance, and effectiveness. Frontiers in psychology, 4, 31. <a href="https://doi.org/10.3389/fpsyg.2013.00031">https://doi.org/10.3389/fpsyg.2013.00031</a>
 
-Cardoso-Leite, P., Kludt, R., Vignola, G., Ma, W. J., Green, C. S., & Bavelier, D. (2016). Technology consumption and cognitive control: Contrasting action video game experience with media multitasking. Attention, Perception, & Psychophysics, 78(1), 218-241.
+Cardoso-Leite, P., Kludt, R., Vignola, G., Ma, W. J., Green, C. S., & Bavelier, D. (2016). Technology consumption and cognitive control: Contrasting action video game experience with media multitasking. Attention, Perception, & Psychophysics, 78(1), 218-241. <a href="https://doi.org/10.3758/s13414-015-0988-0">https://doi.org/10.3758/s13414-015-0988-0</a>
 
-Novak, E., & Tassell, J. (2015). Using video game play to improve education-majors’ mathematical performance: An experimental study. Computers in Human Behavior, 53, 124-130.
+Novak, E., & Tassell, J. (2015). Using video game play to improve education-majors’ mathematical performance: An experimental study. Computers in Human Behavior, 53, 124-130. <a href="https://doi.org/10.1016/j.chb.2015.07.001">https://doi.org/10.1016/j.chb.2015.07.001</a>
 
-Peters, J. L., Sutton, A. J., Jones, D. R., Abrams, K. R., & Rushton, L. (2008). Contour-enhanced meta-analysis funnel plots help distinguish publication bias from other causes of asymmetry. Journal of clinical epidemiology, 61(10), 991-996.
+Peters, J. L., Sutton, A. J., Jones, D. R., Abrams, K. R., & Rushton, L. (2008). Contour-enhanced meta-analysis funnel plots help distinguish publication bias from other causes of asymmetry. Journal of clinical epidemiology, 61(10), 991-996. <a href="https://doi.org/10.1016/j.jclinepi.2007.11.010">https://doi.org/10.1016/j.jclinepi.2007.11.010</a>
 
 <a href="https://www.pexels.com/de-de/foto/foto-der-person-die-auf-computertastatur-tippt-735911/">https://www.pexels.com/de-de/foto/foto-der-person-die-auf-computertastatur-tippt-735911/</a>
