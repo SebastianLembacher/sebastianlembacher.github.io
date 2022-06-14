@@ -122,4 +122,4 @@ Novak, E., & Tassell, J. (2015). Using video game play to improve education-majo
 
 Peters, J. L., Sutton, A. J., Jones, D. R., Abrams, K. R., & Rushton, L. (2008). Contour-enhanced meta-analysis funnel plots help distinguish publication bias from other causes of asymmetry. Journal of clinical epidemiology, 61(10), 991-996.
 
-https://www.pexels.com/de-de/foto/foto-der-person-die-auf-computertastatur-tippt-735911/
+<a href="https://www.pexels.com/de-de/foto/foto-der-person-die-auf-computertastatur-tippt-735911/">https://www.pexels.com/de-de/foto/foto-der-person-die-auf-computertastatur-tippt-735911/</a>
